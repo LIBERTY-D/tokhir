@@ -1,2 +1,6 @@
 .env
 node_modules
+app.js
+email.js
+package.json
+package-lock.json
